@@ -1,6 +1,8 @@
 OneDatabase
 ==========
 
+[![Join the chat at https://gitter.im/kotishe/database](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kotishe/database?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 License
 -------
 **OneDatabase** is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
